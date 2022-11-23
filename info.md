@@ -9,3 +9,5 @@
 > git branch - список веток
 
 > git commit -m 'massage' - создание коммита
+
+> git merge --abort - отменить слияние с конфликтом
