@@ -11,3 +11,5 @@
 > git commit -m 'massage' - создание коммита
 
 > git merge --abort - отменить слияние с конфликтом
+
+> git reset HEAD~ --hard - отмена последнего коммита
